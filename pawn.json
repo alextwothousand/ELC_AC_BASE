@@ -1,0 +1,9 @@
+{
+	"user": "infin1tyy",
+	"repo": "ELC_AC_BASE",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
